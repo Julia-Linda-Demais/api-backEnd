@@ -1,0 +1,2 @@
+fazer os testes aq bbs. Só criar os arquivos e ir testando as funções. 
+Se precisarem, eu tenho uma lição antiga do Everson q tem certinho como fazer o teste dos CRUDs
